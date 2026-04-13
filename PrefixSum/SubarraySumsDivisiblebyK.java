@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class SubarraySumsDivisiblebyK {
     public int subarraysDivByK(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();

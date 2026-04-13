@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class ContiguousArray {
     public int findMaxLength(int[] nums) {
         int maxlength = 0;
